@@ -1,0 +1,233 @@
+{
+  "users": [
+    {
+      "image": "C:\\fakepath\\m2.png",
+      "name": "hagar",
+      "email": "hagargoga1@hotmail.com",
+      "password": "hagar@123",
+      "birthday": "2004-09-23",
+      "phone": "01900000012",
+      "gender": "female",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "image": "C:\\fakepath\\m2.png",
+      "name": "omar mostafa",
+      "email": "omar@gmail.com",
+      "password": "omar@123",
+      "birthday": "2018-02-24",
+      "phone": "01000000000",
+      "gender": "male",
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "image": "C:\\fakepath\\2.png",
+      "name": "monty",
+      "email": "monty@gmail.com",
+      "password": "monty@123",
+      "birthday": "2019-02-05",
+      "phone": "01006605468",
+      "gender": "male",
+      "role": "client",
+      "id": 4
+    },
+    {
+      "image": "C:\\fakepath\\2.png",
+      "name": "sara",
+      "email": "sara@gmail.com",
+      "password": "123@1223",
+      "birthday": "2021-02-10",
+      "phone": "0908679",
+      "gender": "female",
+      "role": "moderator",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "image": "C:\\fakepath\\scaled.jpg",
+      "name": "Dress",
+      "id": 1
+    },
+    {
+      "image": "C:\\fakepath\\Allbirds+Shoes.png",
+      "name": "Shoes",
+      "id": 3
+    },
+    {
+      "image": "C:\\fakepath\\slider2.jpg",
+      "name": "Watches",
+      "id": 4
+    },
+    {
+      "image": "C:\\fakepath\\scaled.jpg",
+      "name": "Shoes",
+      "id": 5
+    },
+    {
+      "image": "C:\\fakepath\\scaled.jpg",
+      "name": "T-shirt",
+      "id": 6
+    },
+    {
+      "image": "C:\\fakepath\\scaled.jpg",
+      "name": "Smart Watches",
+      "id": 7
+    },
+    {
+      "image": "C:\\fakepath\\scaled.jpg",
+      "name": "Mobiles",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "image": "C:\\fakepath\\pr-watch2_540x.png",
+      "name": "Legend Silver Dial",
+      "price": "2000",
+      "category": "Watches",
+      "id": 4
+    },
+    {
+      "image": "C:\\fakepath\\pr-watch7_540x.png",
+      "name": "Nautilo Blue Men’s",
+      "price": "3000",
+      "category": "Watches",
+      "id": 5
+    },
+    {
+      "image": "C:\\fakepath\\pr-watch-9_540x.png",
+      "name": "Legend Silver Dial",
+      "price": "1500",
+      "category": "Watches",
+      "id": 6
+    },
+    {
+      "image": "C:\\fakepath\\pr-watch10_360x.png",
+      "name": "Legend Silver Dial",
+      "price": "1000",
+      "category": "Watches",
+      "id": 7
+    },
+    {
+      "image": "C:\\fakepath\\pr-watch12_540x.png",
+      "name": "Legend Silver Dial",
+      "price": "900",
+      "category": "Watches",
+      "id": 8
+    },
+    {
+      "image": "C:\\fakepath\\pr-watch12_540x.png",
+      "name": "Silver Stainless Steel",
+      "price": "1400",
+      "category": "Watches",
+      "id": 9
+    },
+    {
+      "image": "C:\\fakepath\\1.png",
+      "name": "Hilfiger -1",
+      "price": "5000",
+      "category": "Watches",
+      "id": 10
+    },
+    {
+      "image": "C:\\fakepath\\2.png",
+      "name": "Hilfiger -2",
+      "price": "4000",
+      "category": "Watches",
+      "id": 11
+    },
+    {
+      "image": "C:\\fakepath\\3.png",
+      "name": "Hilfiger -3",
+      "price": "4000",
+      "category": "Watches",
+      "id": 12
+    },
+    {
+      "image": "C:\\fakepath\\4.png",
+      "name": "Hilfiger -4",
+      "price": "4500",
+      "category": "Watches",
+      "id": 13
+    },
+    {
+      "image": "C:\\fakepath\\5.png",
+      "name": "Tommy",
+      "price": "6000",
+      "category": "Watches",
+      "id": 14
+    },
+    {
+      "image": "C:\\fakepath\\6.png",
+      "name": "Hilfiger -5",
+      "price": "5600",
+      "category": "Watches",
+      "id": 15
+    },
+    {
+      "image": "C:\\fakepath\\7.png",
+      "name": "Hilfiger -6",
+      "price": "7000",
+      "category": "Watches",
+      "id": 16
+    },
+    {
+      "image": "C:\\fakepath\\8.png",
+      "name": "Hilfiger -7",
+      "price": "2000",
+      "category": "Watches",
+      "id": 17
+    },
+    {
+      "image": "C:\\fakepath\\9.png",
+      "name": "Hilfiger -9",
+      "price": "1900",
+      "category": "Watches",
+      "id": 18
+    },
+    {
+      "image": "C:\\fakepath\\10.png",
+      "name": "Hilfiger -8",
+      "price": "3000",
+      "category": "Watches",
+      "id": 19
+    },
+    {
+      "image": "C:\\fakepath\\11.png",
+      "name": "Hilfiger -10",
+      "price": "3200",
+      "category": "Watches",
+      "id": 20
+    },
+    {
+      "image": "C:\\fakepath\\12.png",
+      "name": "Hilfiger -11",
+      "price": "4300",
+      "category": "Watches",
+      "id": 21
+    }
+  ],
+  "sliders": [
+    {
+      "image": "C:\\fakepath\\slider1.jpg",
+      "name": "Trending Product",
+      "caption": "Everything That's New & Now ",
+      "id": 1
+    },
+    {
+      "image": "C:\\fakepath\\slider2.jpg",
+      "name": "Latest Product",
+      "caption": "Everything That's New & Now ",
+      "id": 2
+    },
+    {
+      "image": "C:\\fakepath\\slider3.jpg",
+      "name": "Trendy",
+      "caption": "Everything That's New & Now ",
+      "id": 3
+    }
+  ]
+}
